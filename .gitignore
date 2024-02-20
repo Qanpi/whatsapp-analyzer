@@ -1,5 +1,7 @@
 Data/*
 Output/*
 Tiktok name count.ods
-test.py
 .vscode
+
+__pycache__/
+tempCodeRunnerFile.py
